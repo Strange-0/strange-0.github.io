@@ -9,14 +9,3 @@ remote_theme: pages-themes/hacker@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-header:
-  links:
-    - title: Logo 1
-      url: https://example.com
-      image: https://img.shields.io/badge/HackTheBox-32CD32.svg?style=for-the-badge&logo=HackTheBox&logoColor=white
-
-    - title: Logo 2
-      url: https://example.org
-      image: /assets/images/logo2.png
-    - title: View on GitHub
-      url: https://github.com/username/repo-name
