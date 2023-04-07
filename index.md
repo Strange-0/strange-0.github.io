@@ -16,7 +16,6 @@ Welcome, here I share my experiences and knowledge in the field of cybersecurity
 - [view more](./walkthroughs.md)
 
 ### Contact Me
-![twit](https://user-images.githubusercontent.com/76517909/230600741-01ad01f7-b1ea-42b1-ae97-7bd04a5229b5.jpg)
 
 - [Twitter](https://twitter.com/Strange_017)
 - [Medium](https://medium.com/@aryandhiman767)
