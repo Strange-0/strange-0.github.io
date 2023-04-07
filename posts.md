@@ -1,4 +1,4 @@
-# List of Posts
+# Posts
 
 - [OSCP](./post/oscp-journey)
 - [Title of Post 2](link to post 2)
