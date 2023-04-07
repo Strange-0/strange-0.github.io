@@ -13,17 +13,14 @@ Welcome, here I share my experiences and knowledge in the field of cybersecurity
 ## General Blogs
 
 - [My OSCP Exam Adventure](./post/oscp-journey.md)
-- [Blog Post 2](#)
-- [Blog Post 3](#)
+- [Soon](#)
 
 [View More](./posts.md)
 
 
 ## Walkthroughs 
 
-- [Walkthrough 1](#)
-- [Walkthrough 2](#)
-- [Walkthrough 3](#)
+- [Testing](#)
 
 [View More](./walkthroughs.md)
 
