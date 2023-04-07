@@ -1,0 +1,5 @@
+title: StrangeSecurity
+description: HACKING website
+theme: jekyll-theme-hacker # or the name of another theme you want to use
+url: https://strange-0.github.io # replace with your actual GitHub Pages URL
+baseurl: # if your site is hosted at a subpath (e.g. https://your-username.github.io/my-site)
