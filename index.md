@@ -1,3 +1,10 @@
+---
+layout: default
+---
+
+{% include head-custom.html %}
+
+
 ## Introduction
 Welcome to my website, where I share my experiences and knowledge in the field of cybersecurity. As a recent OSCP certified student, I am passionate about exploring the world of ethical hacking and continuously improving my skills through regular practice on platforms like HackTheBox and TryHackMe. On this website, you will find a collection of my blog posts and walkthroughs, where I share insights into different cybersecurity topics and techniques. Join me in this journey of learning and exploring the exciting world of cybersecurity.
 
