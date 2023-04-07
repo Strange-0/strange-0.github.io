@@ -3,7 +3,7 @@ Welcome to my website, where I share my experiences and knowledge in the field o
 
 ## General Blogs
 
-- [My OSCP Exam Adventure1](./post/oscp-journey.md)
+- [My OSCP Exam Adventure](./post/oscp-journey.md)
 - [Blog Post 2](#)
 - [Blog Post 3](#)
 - [view more](./posts.md)
