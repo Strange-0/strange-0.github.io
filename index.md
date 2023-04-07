@@ -8,6 +8,7 @@ Welcome, here I share my experiences and knowledge in the field of cybersecurity
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/saatvik-dhiman-10923420a)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-6cbf5a.svg?style=for-the-badge&logo=HackTheBox&logoColor=white)](https://app.hackthebox.com/profile/951050)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212121.svg?style=for-the-badge&logo=TryHackMe&logoColor=white)](https://tryhackme.com/p/Strange000)
+[![GitBook](https://img.shields.io/badge/GitBook-3884FF.svg?style=for-the-badge&logo=GitBook&logoColor=white)](https://strange-1.gitbook.io/)
 
 
 ## General Blogs
