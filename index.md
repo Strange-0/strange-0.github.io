@@ -6,14 +6,18 @@ Welcome, here I share my experiences and knowledge in the field of cybersecurity
 - [My OSCP Exam Adventure](./post/oscp-journey.md)
 - [Blog Post 2](#)
 - [Blog Post 3](#)
-- [view more](./posts.md)
+
+[View More](./post/oscp-journey.md)
+
 
 ## Walkthroughs 
 
 - [Walkthrough 1](#)
 - [Walkthrough 2](#)
 - [Walkthrough 3](#)
-- [view more](./walkthroughs.md)
+
+[View More](./walkthrough/machine.md)
+
 
 ### Connect with me
 
