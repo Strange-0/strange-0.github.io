@@ -12,6 +12,8 @@ Feel free to connect with me on social media:
 - [Twitter](https://twitter.com/YourTwitterHandle)
 - [Medium](https://medium.com/@YourMediumHandle)
 - [LinkedIn](https://www.linkedin.com/in/YourLinkedInProfile)
+- [Hackthebox](https://app.hackthebox.com/profile/951050)
+- [Tryhackme](https://tryhackme.com/p/Strange000)
 
 ## Tags
 
@@ -23,16 +25,3 @@ Some tags related to the topics covered on this website include:
 - OSCP
 - Walkthroughs
 - Tutorials
-
-## GitHub Repo
-
-Check out the GitHub repository for this website [here](https://github.com/YourGitHubUsername/YourGitHubUsername.github.io). Some relevant topics for the repository include:
-
-- Cybersecurity
-- Web Development
-- Markdown
-- Jekyll Themes
-
-## License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
