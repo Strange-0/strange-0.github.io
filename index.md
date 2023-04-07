@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
-[Link to another page](./another-page.html).
+[OSCP](https://github.com/Strange-0/strange-0.github.io/blob/main/post/oscp-journey.md).
 
 There should be whitespace between paragraphs.
 
