@@ -1,4 +1,3 @@
-# strange-0.github.io
 # Strange Security
 
 Welcome to Strange Security, a website dedicated to exploring the strangeness of security in the world of cyber security. As a recent OSCP certified student, I am constantly striving to improve my skills and knowledge in the field by regularly practicing on platforms like HackTheBox and TryHackMe.
