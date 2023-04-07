@@ -7,7 +7,7 @@ Welcome, here I share my experiences and knowledge in the field of cybersecurity
 - [Blog Post 2](#)
 - [Blog Post 3](#)
 
-[View More](./post/oscp-journey.md)
+[View More](./posts.md)
 
 
 ## Walkthroughs 
@@ -16,7 +16,7 @@ Welcome, here I share my experiences and knowledge in the field of cybersecurity
 - [Walkthrough 2](#)
 - [Walkthrough 3](#)
 
-[View More](./walkthrough/machine.md)
+[View More](./walkthroughs.md)
 
 
 ### Connect with me
