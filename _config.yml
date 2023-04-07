@@ -3,7 +3,6 @@ description: Exploring the Strangeness of Security !
 theme: jekyll-theme-hacker # or the name of another theme you want to use
 url: https://strange-0.github.io # replace with your actual GitHub Pages URL
 baseurl: # if your site is hosted at a subpath (e.g. https://your-username.github.io/my-site)
-<link rel="icon" type="image/ico" href="/favicon.ico" />
 
 remote_theme: pages-themes/hacker@v0.2.0
 plugins:
