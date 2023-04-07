@@ -1,4 +1,4 @@
 # Posts
 
-- [OSCP](./post/oscp-journey.md)
+- [My OSCP Exam Adventure](./post/oscp-journey.md)
 
