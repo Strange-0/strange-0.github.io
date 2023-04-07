@@ -3,9 +3,20 @@ description: Exploring the Strangeness of Security !
 theme: jekyll-theme-hacker # or the name of another theme you want to use
 url: https://strange-0.github.io # replace with your actual GitHub Pages URL
 baseurl: # if your site is hosted at a subpath (e.g. https://your-username.github.io/my-site)
----
-include: head-custom.html
----
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+      title: "Strange Security"
+      description: "Exploring the Strangeness of Security !"
+      permalink: /:title/
+      # Add the following line to reference the head.html file
+      include: head-custom.html
+
 
 remote_theme: pages-themes/hacker@v0.2.0
 plugins:
