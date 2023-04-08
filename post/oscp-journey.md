@@ -1,3 +1,7 @@
+## Table of Contents
+
+- [Introduction](#Introduction:)
+
 # My OSCP Exam Adventure
 
 ![](https://miro.medium.com/v2/resize:fit:400/1*6bqjHNQUoFQ17mUv6G7iLw.png)
