@@ -1,11 +1,11 @@
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Before Enrollment Preparation](#before-enrollment-preparation)
-- [Post Enrollment Preparation](#post-enrollment-preparation)
-- [Exam Day](#exam-day)
-- [My Overall Methodology and Recommendation](#my-overall-methodology-and-recommendation)
-- [Resources for Learning](#resources-for-learning)
+* [Introduction](#introduction)
+* [Before Enrollment Preparation](#before-enrollment-preparation)
+* [Post Enrollment Preparation](#post-enrollment-preparation)
+* [Exam Day](#exam-day)
+* [My Overall Methodology and Recommendation](#my-overall-methodology-and-recommendation)
+* [Resources for Learning](#resources-for-learning)
 
 # My OSCP Exam Adventure
 
