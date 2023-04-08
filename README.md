@@ -9,7 +9,7 @@ On this website, you will find blog posts covering various topics related to cyb
 Feel free to connect with me on social media:
 
 - [Twitter](https://twitter.com/Strange_017)
-- [Medium](https://medium.com/@aryandhiman767)
+- [Medium](https://medium.com/@Strange0)
 - [LinkedIn](https://www.linkedin.com/in/saatvik-dhiman-10923420a)
 - [Hackthebox](https://app.hackthebox.com/profile/951050)
 - [Tryhackme](https://tryhackme.com/p/Strange000)
