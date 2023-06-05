@@ -25,7 +25,7 @@ Before Enrolling, I completed Practical Ethical Hacking course by TCMsecurity an
 -   HTB academy Active Directory Enumration Module (all the modules are good but if you only want something to prepare for Active Directory then it is more than enough)
 -   Tryhackme for beginner hands on experience
 -   TJNull list of oscp like machines HTB (even if you are not able to do them yourself, don’t feel demotivated just learn whatever you can from each and every machine).
--   Read blogs and watch videos by people who has passed the exam.
+-   Read blogs and watch videos by people who has taken the exam.
 
 ## Post Enrollment Preparation:
 
