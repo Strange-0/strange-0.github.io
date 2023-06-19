@@ -1,3 +1,3 @@
 # Bug Hunting
 
-- [XSS](https://github.com/Strange-0/BugHunting/blob/main/XSS/1.md)
+- [XSS : blog site search field](https://github.com/Strange-0/BugHunting/blob/main/XSS/1.md)
