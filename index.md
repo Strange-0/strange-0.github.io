@@ -18,6 +18,12 @@ Welcome, here I share my experiences and knowledge in the field of cybersecurity
 
 [View More](./posts.md)
 
+## Bug Hunting
+
+- [bugs](./bug.md)
+
+[View More](./bug.md)
+
 
 ## Walkthroughs 
 
