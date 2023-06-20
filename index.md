@@ -11,10 +11,10 @@ Welcome, here I share my experiences and knowledge in the field of cybersecurity
 [![GitBook](https://img.shields.io/badge/GitBook-3884FF.svg?style=for-the-badge&logo=GitBook&logoColor=white)](https://strange-1.gitbook.io/)
 
 
-## General Blogs
+## Posts
 
 - [My OSCP Exam Adventure](./post/oscp-journey.md)
-- [Soon](#)
+- [Initial Access 101: Exploiting CVE-2022-22963 Vulnerability](./post/CVE-2022-22963.md)
 
 [View More](./posts.md)
 
@@ -25,11 +25,6 @@ Welcome, here I share my experiences and knowledge in the field of cybersecurity
 [View More](./bug.md)
 
 
-## Walkthroughs 
-
-- [Testing](#)
-
-[View More](./walkthroughs.md)
 
 
 
